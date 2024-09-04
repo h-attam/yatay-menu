@@ -7,5 +7,5 @@ Bu proje, HTML ve CSS kullanılarak oluşturulmuş, üzerine gelindiğinde (hove
 - Responsive Tasarım: Menü, farklı ekran boyutlarına uyum sağlar ve mobil cihazlar için optimize edilmiştir.
 - Basit ve Anlaşılır Yapı: HTML ve CSS ile basit bir yapıdadır, kolayca özelleştirilebilir.
 
-# GIF
+# Ekran Görüntüsü
 ![](images/Ekran%20Resmi%202024-09-04%2013.36.45.png)
